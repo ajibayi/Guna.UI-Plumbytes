@@ -4,7 +4,7 @@ Using most of Guna Framework Tools.
 Steps on getting started
 * Clone/Download Zip
 * Open with Visual Studio 
-* Update Bunifu Framework DLLs
+* Update Guna.UI Framework DLL
 
 Watch the video [https://youtu.be/P-BI30x97T8]
 
