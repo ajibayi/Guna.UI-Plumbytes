@@ -1,0 +1,23 @@
+c:\users\ilham-pc\documents\visual studio 2015\Projects\PlumbytesDesign\PlumbytesDesign\bin\Debug\PlumbytesDesign.exe.config
+c:\users\ilham-pc\documents\visual studio 2015\Projects\PlumbytesDesign\PlumbytesDesign\bin\Debug\PlumbytesDesign.exe
+c:\users\ilham-pc\documents\visual studio 2015\Projects\PlumbytesDesign\PlumbytesDesign\bin\Debug\PlumbytesDesign.pdb
+c:\users\ilham-pc\documents\visual studio 2015\Projects\PlumbytesDesign\PlumbytesDesign\bin\Debug\PlumbytesDesign.xml
+c:\users\ilham-pc\documents\visual studio 2015\Projects\PlumbytesDesign\PlumbytesDesign\bin\Debug\Guna.UI.dll
+c:\users\ilham-pc\documents\visual studio 2015\Projects\PlumbytesDesign\PlumbytesDesign\obj\Debug\PlumbytesDesign.vbprojResolveAssemblyReference.cache
+c:\users\ilham-pc\documents\visual studio 2015\Projects\PlumbytesDesign\PlumbytesDesign\obj\Debug\PlumbytesDesign.Form1.resources
+c:\users\ilham-pc\documents\visual studio 2015\Projects\PlumbytesDesign\PlumbytesDesign\obj\Debug\PlumbytesDesign.Resources.resources
+c:\users\ilham-pc\documents\visual studio 2015\Projects\PlumbytesDesign\PlumbytesDesign\obj\Debug\PlumbytesDesign.vbproj.GenerateResource.Cache
+c:\users\ilham-pc\documents\visual studio 2015\Projects\PlumbytesDesign\PlumbytesDesign\obj\Debug\PlumbytesDesign.exe
+c:\users\ilham-pc\documents\visual studio 2015\Projects\PlumbytesDesign\PlumbytesDesign\obj\Debug\PlumbytesDesign.xml
+c:\users\ilham-pc\documents\visual studio 2015\Projects\PlumbytesDesign\PlumbytesDesign\obj\Debug\PlumbytesDesign.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Plumbytes\PlumbytesDesign\PlumbytesDesign\bin\Debug\PlumbytesDesign.exe.config
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Plumbytes\PlumbytesDesign\PlumbytesDesign\obj\Debug\PlumbytesDesign.exe
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Plumbytes\PlumbytesDesign\PlumbytesDesign\obj\Debug\PlumbytesDesign.xml
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Plumbytes\PlumbytesDesign\PlumbytesDesign\obj\Debug\PlumbytesDesign.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Plumbytes\PlumbytesDesign\PlumbytesDesign\bin\Debug\PlumbytesDesign.exe
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Plumbytes\PlumbytesDesign\PlumbytesDesign\bin\Debug\PlumbytesDesign.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Plumbytes\PlumbytesDesign\PlumbytesDesign\bin\Debug\PlumbytesDesign.xml
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Plumbytes\PlumbytesDesign\PlumbytesDesign\obj\Debug\PlumbytesDesign.vbprojResolveAssemblyReference.cache
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Plumbytes\PlumbytesDesign\PlumbytesDesign\obj\Debug\PlumbytesDesign.Form1.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Plumbytes\PlumbytesDesign\PlumbytesDesign\obj\Debug\PlumbytesDesign.Resources.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Plumbytes\PlumbytesDesign\PlumbytesDesign\obj\Debug\PlumbytesDesign.vbproj.GenerateResource.Cache
