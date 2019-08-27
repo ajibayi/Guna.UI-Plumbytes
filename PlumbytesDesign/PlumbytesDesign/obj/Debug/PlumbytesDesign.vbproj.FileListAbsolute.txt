@@ -17,7 +17,7 @@ C:\Users\Ilham-PC\Source\Repos\Guna.UI-Plumbytes\PlumbytesDesign\PlumbytesDesign
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-Plumbytes\PlumbytesDesign\PlumbytesDesign\bin\Debug\PlumbytesDesign.exe
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-Plumbytes\PlumbytesDesign\PlumbytesDesign\bin\Debug\PlumbytesDesign.pdb
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-Plumbytes\PlumbytesDesign\PlumbytesDesign\bin\Debug\PlumbytesDesign.xml
-C:\Users\Ilham-PC\Source\Repos\Guna.UI-Plumbytes\PlumbytesDesign\PlumbytesDesign\obj\Debug\PlumbytesDesign.vbprojResolveAssemblyReference.cache
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-Plumbytes\PlumbytesDesign\PlumbytesDesign\obj\Debug\PlumbytesDesign.Form1.resources
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-Plumbytes\PlumbytesDesign\PlumbytesDesign\obj\Debug\PlumbytesDesign.Resources.resources
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-Plumbytes\PlumbytesDesign\PlumbytesDesign\obj\Debug\PlumbytesDesign.vbproj.GenerateResource.Cache
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Plumbytes\PlumbytesDesign\PlumbytesDesign\bin\Debug\Guna.UI.dll
